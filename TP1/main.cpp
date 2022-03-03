@@ -1,3 +1,8 @@
+/*O jogo do pulo consiste em um tabuleiro NxM e o objetivo é que as pessoas jogando atinjam a última posição 
+do tabuleiro (nesse caso a posição N-1xM-1) antes que o resto das pessoas, e cada passo no tabuleiro deve seguir
+o valor determinado na casa onde a pessoa se econtra, podendo ela se mover em qualquer sentido na vertical ou
+na horizontal contanto que o número de casas andadas seja exatamente o valor contido na casa de onde partiu o movimento*/
+
 #include <bits/stdc++.h>
 #define INF 0x3f3f3f;
 
