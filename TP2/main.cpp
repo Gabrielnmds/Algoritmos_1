@@ -1,7 +1,7 @@
 /*Codigo que simula o chamado 'jogo dos diamantes', uma forma de combinar pedras de diferentes pesos com base na regra:
 dados duas pedras de pesos p1 e p2, se p1 == p2 as duas pedras sao destruidas, se p1 > p2 a pedra de peso p1-p2 
-é adicionada ao conjunto e a pedra de peso p2 é destruída e vice versa; o objetivo é minimizar o peso total do conjunto de pedras
-repetindo o processo citado até que restem 1 ou 0 pedras no conjunto*/
+é adicionada ao conjunto e a pedra de peso p2 é destruída e vice versa; 
+o objetivo é minimizar o peso total do conjunto de pedras repetindo o processo citado até que restem 1 ou 0 pedras no conjunto*/
 
 #include <bits/stdc++.h>
 using namespace std;
